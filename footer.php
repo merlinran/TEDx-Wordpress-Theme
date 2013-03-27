@@ -8,7 +8,7 @@
 			
 		<a href="<?php echo home_url(); ?>" class="logo_sm">TEDxHongyadong</a>
 	
-    	<?php wp_nav_menu(array('theme_location' => 'primary_navigation', 'depth' => 1)); ?>
+    	<!--<?php wp_nav_menu(array('theme_location' => 'primary_navigation', 'depth' => 1)); ?>-->
 		
 		<ul class="clearfix">
 			<li><a href="/about/">关于</a></li>

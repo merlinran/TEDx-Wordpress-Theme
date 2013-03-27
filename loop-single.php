@@ -17,7 +17,7 @@
 		</div>
 		
 		<footer>
-			<p class="post-<?php the_ID(); ?>-meta">Posted on: <?php the_time('F jS, Y') ?> | Posted in: <?php the_category(', ') ?><span><?php comments_number( '0 Comments', '1 Comment', '% Comments' ); ?></span></p>
+			<p class="post-<?php the_ID(); ?>-meta">发表时间: <?php the_time('F jS, Y') ?> | 分类: <?php the_category(', ') ?><span><?php comments_number( '没有评论', '1条评论', '%条评论' ); ?></span></p>
 		</footer>
 	
 		<?php comments_template(); ?>

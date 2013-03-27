@@ -47,7 +47,8 @@
 						<?php if (get_post_meta($post->ID, '_tedxhongyadong_speaker_tedtalk_value', true)) : ?>
 						<div class="video_wrapper">
 							<div class="video_container">
-								<iframe width="560" height="315" src="http://www.youtube.com/embed/<?php echo get_post_meta($post->ID, '_tedxhongyadong_speaker_tedtalk_value', true) ?>" frameborder="0" allowfullscreen></iframe>
+								<?php echo get_post_meta($post->ID, '_tedxhongyadong_speaker_tedtalk_value', true) ?>
+								<iframe height=498 width=510 src="http://player.youku.com/embed/<?php echo get_post_meta($post->ID, '_tedxhongyadong_speaker_tedtalk_value', true) ?>" frameborder="0" allowfullscreen></iframe>
 							</div>
 						</div>
 						<?php endif; ?>

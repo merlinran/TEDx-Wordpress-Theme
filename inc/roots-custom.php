@@ -356,8 +356,8 @@ $speaker_details = array(
 		'std' => ''
 	),
 	array(
-		'label' => 'TEDx Talk Youtube ID',
-		'desc' => 'Add the speakers TEDx talk youtube ID number here. <br />e.g. http://www.youtube.com/watch?v=<strong>HGiHU-agsGY</strong>',
+		'label' => 'TEDx Talk嵌入代码',
+		'desc' => '请插入类似这样的分享通用代码&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XNTIyMDU1NzI4&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;',
 		'name' => $prefix.'speaker_tedtalk',
 		'type' => 'text',
 		'std' => ''
@@ -404,9 +404,9 @@ $committee_details = array(
 
 $videopick_details = array(
 	array(
-		'label' => 'Youtube ID',
-		'desc' => 'Add the youtube id number here. <br />e.g. http://www.youtube.com/watch?v=<strong>HGiHU-agsGY</strong>',
-		'name' => $prefix.'videopick_youtubeID',
+		'label' => 'TEDx演讲视频',
+		'desc' => '请插入类似这样的分享通用代码&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XNTIyMDU1NzI4&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;',
+		'name' => $prefix.'videopick_embed_code',
 		'type' => 'text',
 		'std' => ''
 	),
