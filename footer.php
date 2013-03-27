@@ -31,7 +31,7 @@
 
 	<footer class="row">
 								
-		<section class="navigation three columns clearfix">
+		<!--<section class="navigation three columns clearfix">
 			<h2>Navigation</h2>
 			<?php wp_nav_menu(array(
 				'theme_location' => 'footer_left',
@@ -54,10 +54,10 @@
 		</section>
 		
 		<section class="recentTweet three columns clearfix">
-			<h2>The 新浪微博verse</h2>
+			<h2>社交网络</h2>
 			
 			 <?php // custom twitter latest widget cuz others don't work
-				$username = "tedxhongyadong";
+				$username = "TEDxHongyadong";
 				$prefix = "<p>";
 				$suffix = "</p>";
 				$feed = "http://search.twitter.com/search.atom?q=from:" . $username . "&rpp=1";
@@ -84,8 +84,13 @@
 			<p>This independent TEDx event is operated under license from TED.</p>
 			<p class="legal"><a href="/privacy-policy-terms-of-service/">Privacy Policy</a>   |   <a href="/privacy-policy-terms-of-service/">Terms of Use</a><br />
 			© 2012 TEDxHongyadong. All rights reserved.</p>
-		</section>
-		
+    </section>-->
+
+			<section class="legalStuff clearfix">
+			<p>This independent TEDx event is operated under license from TED.</p>
+			<p class="legal"><a href="/privacy-policy-terms-of-service/">Privacy Policy</a>   |   <a href="/privacy-policy-terms-of-service/">Terms of Use</a><br />
+			© 2012 TEDxHongyadong. All rights reserved.</p>
+	
 	</footer>
 
 	</div> <!-- footer wrap -->
