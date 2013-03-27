@@ -11,7 +11,7 @@ Template Name: Speakers
 		
 		<?php get_template_part('loop', 'page'); ?>
 		
-		<h2>2013 Speakers</h2>
+		<h2>2013年度演讲嘉宾</h2>
 		
 		<?php
 			$newspeaker_args = array(			  		
@@ -51,7 +51,7 @@ Template Name: Speakers
 		?>
 		
 		<div class="clearfix"></div>
-		<h2>2012 Speakers</h2>
+		<h2>2012年度演讲嘉宾</h2>
 		
 		<?php
 			$oldspeaker_args = array(			  		

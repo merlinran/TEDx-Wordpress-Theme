@@ -67,7 +67,7 @@
 						<article id="post-<?php the_ID(); ?>" class="four columns">
 							<header>
 								<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-								<p>Posted on: <?php the_time('F jS, Y') ?></p>
+								<p>发表时间 <?php the_time('F jS, Y') ?></p>
 							</header>
 							<?php the_excerpt(); ?>
 							<a href="<?php the_permalink(); ?>" class="readMore">查看详情</a>

@@ -17,7 +17,7 @@
 						<?php the_content(); ?>
 					
 						<footer>
-							<p class="post-<?php the_ID(); ?>-meta">Posted on: <?php the_time('F jS, Y') ?> | Posted in: <?php the_category(', ') ?></p>
+							<p class="post-<?php the_ID(); ?>-meta">发表时间 <?php the_time('F jS, Y') ?> | Posted in: <?php the_category(', ') ?></p>
 						</footer>
 				
 						

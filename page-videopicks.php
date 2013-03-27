@@ -28,7 +28,7 @@ Template Name: Videopicks
 					<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 						<header>
 							<h2><a href="<?php the_permalink(); ?>">Video Pick: <?php the_title(); ?></a></h2>
-							<p class="post-<?php the_ID(); ?>-meta">Posted on: <?php the_time('F jS, Y') ?><span><?php //comments_number( '0 Comments', '1 Comment', '% Comments' ); ?></span></p>
+							<p class="post-<?php the_ID(); ?>-meta">发表时间 <?php the_time('F jS, Y') ?><span><?php //comments_number( '0 Comments', '1 Comment', '% Comments' ); ?></span></p>
 						</header>
 						<div class="entry-content">
 							<a href="<?php the_permalink(); ?>" class="readMore">
