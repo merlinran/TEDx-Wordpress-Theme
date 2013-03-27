@@ -1,6 +1,6 @@
-# [TEDxHongyadong Wordpress Theme](http://tedxhongyadong.com/)
+# [TEDx Wordpress Theme](http://tedxhongyadong.com/)
 
-The TEDxHongyadong Wordpress Theme is a starting WordPress theme made for TEDx organizers that’s based on the [Roots Wordpress Theme](http://www.rootstheme.com/), [HTML5 Boilerplate](http://html5boilerplate.com/), Starkers, and one of the best CSS frameworks, [Foundation](http://foundation.zurb.com/).
+The TEDx Wordpress Theme is a starting WordPress theme made for TEDx organizers that’s based on the [Roots Wordpress Theme](http://www.rootstheme.com/), [HTML5 Boilerplate](http://html5boilerplate.com/), Starkers, and one of the best CSS frameworks, [Foundation](http://foundation.zurb.com/).
 
 ## Quick start
 
@@ -34,10 +34,11 @@ Anyone and everyone is welcome to contribute. There are several ways you can hel
 
 ## Project information
 
-* Source: [https://github.com/jamesbull/TEDxHongyadong-Wordpress-Theme](https://github.com/jamesbull/TEDxHongyadong-Wordpress-Theme)
+* Source: [https://github.com/merlinran/TEDx-Wordpress-Theme](https://github.com/merlinran/TEDx-Wordpress-Theme)
 * Web: [http://tedxhongyadong.com/](http://tedxhongyadong.com/)
-* Twitter: [@jimbones](https://twitter.com/#!/jimbones)
-* Contributors: [https://github.com/jamesbull/TEDxHongyadong-Wordpress-Theme/contributors](https://github.com/jamesbull/TEDxHongyadong-Wordpress-Theme/contributors)
+* Contributors: [https://github.com/jamesbull/TEDxYYC-Wordpress-Theme/contributors](https://github.com/jamesbull/TEDxYYC-Wordpress-Theme/contributors)
+                [https://github.com/merlinran/TEDx-Wordpress-Theme/contributors](https://github.com/merlinran/TEDx-Wordpress-Theme/contributors)
+
 
 ## License
 
